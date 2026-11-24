@@ -33,6 +33,6 @@ def generate_daily_report(records):
         print("Total:", "{:.2f}".format(total))
 
 #lalalal
-
+#lalala
 
 generate_daily_report()
