@@ -1,2 +1,2 @@
 # Python-Projects
-My Small Python Projects 
+My Python Projects 
