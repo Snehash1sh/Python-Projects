@@ -34,5 +34,5 @@ def generate_daily_report(records):
 
 #lalalal
 #lalala
-
+# aihjfuandi
 generate_daily_report()
