@@ -1,0 +1,6 @@
+Name  Roll No. Avg Percentage 
+Rahul  101      90         90 
+Rohan  102      70         70 
+Priya  102      70         70 
+Priya  102      70         70 
+Priya  102      70         70 
