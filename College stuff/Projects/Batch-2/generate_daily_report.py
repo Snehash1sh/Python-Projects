@@ -32,5 +32,7 @@ def generate_daily_report(records):
             total = total + item[1]
         print("Total:", "{:.2f}".format(total))
 
+#lalalal
+
 
 generate_daily_report()
